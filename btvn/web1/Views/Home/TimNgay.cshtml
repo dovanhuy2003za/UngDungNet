@@ -1,0 +1,14 @@
+﻿@{
+    ViewBag.Title = "Kết quả tìm ngày";
+}
+
+<h2>Tìm số ngày của tháng @ViewBag.Month năm @ViewBag.Year</h2>
+
+@if (ViewBag.DaysInMonth > 0)
+{
+    <p>Tháng @ViewBag.Month năm @ViewBag.Year có @ViewBag.DaysInMonth ngày.</p>
+}
+else
+{
+    <p>Tháng @ViewBag.Month không hợp lệ.</p>
+}

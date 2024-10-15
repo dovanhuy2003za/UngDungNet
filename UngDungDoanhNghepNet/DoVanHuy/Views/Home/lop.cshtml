@@ -1,0 +1,41 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>
+@{
+    // Mảng chứa danh sách sinh viên
+    var students = new[] { "Tuan", "Nam", "Nga", "Mai", "Hung" };
+    var studentCount = students.Length;
+
+    // Kiểm tra tên "Mai" trong danh sách
+    var maiIndex = Array.IndexOf(students, "Mai") + 1;
+}
+
+
+    <h1>Danh sách sinh viên</h1>
+    <ul>
+        @{
+            /*in danh sách ra màn hình*/
+        }
+        @foreach (var student in students)
+        {
+            <li>@student</li>
+        }
+    </ul>
+
+    <p>Số lượng sinh viên: @studentCount</p>
+    <p>Sinh viên ở vị trí thứ 2: @students[1]</p>
+
+    @if (maiIndex >= 0)
+    {
+        <p>Vị trí của Mai trong danh sách: @maiIndex</p>
+    }
+    else
+    {
+        <p>Mai không có trong danh sách</p>
+    }
+

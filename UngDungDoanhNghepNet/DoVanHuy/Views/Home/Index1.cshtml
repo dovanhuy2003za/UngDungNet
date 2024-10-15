@@ -1,0 +1,20 @@
+﻿
+@{
+    ViewData["Title"] = "Even Numbers";
+}
+<h1>@ViewData["Title"]</h1>
+<p>Các số chia hết cho 2 từ 1 đến 10 là:</p>
+
+<ul>
+    @for (int i = 1; i <= 10; i++)
+    {
+        if (i % 2 == 0)
+        {
+            <li>@i</li>
+        }
+    }
+</ul>
+
+
+
+
