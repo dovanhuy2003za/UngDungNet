@@ -1,0 +1,20 @@
+﻿@model WebApplication1.Models.User
+@{
+    ViewData["Title"] = "Chi Tiết Người Dùng";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+<div>
+    <p><strong>Id:</strong> @Model.Id</p>
+    <p><strong>Username:</strong> @Model.Username</p>
+    <p><strong>Fullname:</strong> @Model.Fullname</p>
+    <p><strong>Gender:</strong> @Model.Gender</p>
+    <p><strong>Birthday:</strong> @Model.Birthday.ToShortDateString()</p>
+    <p><strong>Status:</strong> @(Model.Status ? "Kích hoạt" : "Không kích hoạt")</p>
+    <p><strong>Address:</strong> @Model.Address</p>
+    <p><strong>Phone:</strong> @Model.Phone</p>
+    <p><strong>Email:</strong> @Model.Email</p>
+</div>
+
+<a asp-action="UserList">Quay lại danh sách người dùng</a>

@@ -1,0 +1,31 @@
+﻿@model List<WebApplication1.Models.SinhVien>
+
+<h2>Danh Sách Sinh Viên</h2>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>MaSV</th>
+            <th>TenSV</th>
+            <th>NgaySinh</th>
+            <th>GioiTinh</th>
+            <th>DiaChi</th>
+            <th>DienThoai</th>
+            <th>HomThu</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var sv in Model)
+        {
+            <tr>
+                <td>@sv.MaSV</td>
+                <td>@sv.TenSV</td>
+                <td>@sv.NgaySinh.ToString("dd/MM/yyyy")</td>
+                <td>@sv.GioiTinh</td>
+                <td>@sv.DiaChi</td>
+                <td>@sv.DienThoai</td>
+                <td>@sv.HomThu</td>
+            </tr>
+        }
+    </tbody>
+</table>

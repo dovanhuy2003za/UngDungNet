@@ -1,0 +1,72 @@
+﻿@model WebApplication1.Models.ViewModels.RegisterViewModel
+@{
+    ViewData["Title"] = "Đăng Ký";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+<form asp-action="Register" method="post">
+    <div>
+        <label asp-for="Username"></label>
+        <input asp-for="Username" />
+        <span asp-validation-for="Username" class="text-danger"></span>
+    </div>
+
+    <div>
+        <label asp-for="Password"></label>
+        <input asp-for="Password" type="password" />
+        <span asp-validation-for="Password" class="text-danger"></span>
+    </div>
+
+    <div>
+        <label asp-for="ConfirmPassword"></label>
+        <input asp-for="ConfirmPassword" type="password" />
+        <span asp-validation-for="ConfirmPassword" class="text-danger"></span>
+    </div>
+
+    <div>
+        <label asp-for="Fullname"></label>
+        <input asp-for="Fullname" />
+        <span asp-validation-for="Fullname" class="text-danger"></span>
+    </div>
+
+    <div>
+        <label asp-for="Gender"></label>
+        <select asp-for="Gender">
+            <option value="Male">Nam</option>
+            <option value="Female">Nữ</option>
+        </select>
+    </div>
+
+    <div>
+        <label asp-for="Birthday"></label>
+        <input asp-for="Birthday" type="date" />
+        <span asp-validation-for="Birthday" class="text-danger"></span>
+    </div>
+
+    <div>
+        <label asp-for="Address"></label>
+        <input asp-for="Address" />
+    </div>
+
+    <div>
+        <label asp-for="Phone"></label>
+        <input asp-for="Phone" />
+    </div>
+
+    <div>
+        <label asp-for="Email"></label>
+        <input asp-for="Email" type="email" />
+        <span asp-validation-for="Email" class="text-danger"></span>
+    </div>
+
+    <button type="submit">Đăng Ký</button>
+</form>
+
+<a asp-action="Login">Đã có tài khoản? Đăng nhập tại đây.</a>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

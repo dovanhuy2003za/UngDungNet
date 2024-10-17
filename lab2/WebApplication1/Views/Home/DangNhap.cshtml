@@ -1,0 +1,22 @@
+﻿@model WebApplication1.Models.DangNhap
+
+<form asp-action="DangNhap" method="post">
+    <div>
+        <label for="TaiKhoan">Tài khoản:</label>
+        @Html.TextBoxFor(m => m.TaiKhoan, new { @class = "form-control" })
+    </div>
+    <div>
+        <label for="MatKhau">Mật khẩu:</label>
+        @Html.PasswordFor(m => m.MatKhau, new { @class = "form-control" })
+    </div>
+    <button type="submit">Đăng nhập</button>
+    @if (!string.IsNullOrEmpty(ViewBag.Message))
+    {
+        <div class="alert alert-info">
+            @ViewBag.Message
+        </div>
+    }
+</form>
+<p>
+    <a asp-action="Create">Create New</a>
+</p>

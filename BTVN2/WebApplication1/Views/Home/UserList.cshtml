@@ -1,0 +1,30 @@
+﻿@model List<WebApplication1.Models.User>
+@{
+    ViewData["Title"] = "Danh Sách Người Dùng";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Username</th>
+            <th>Fullname</th>
+            <th>Action</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var user in Model)
+        {
+            <tr>
+                <td>@user.Id</td>
+                <td>@user.Username</td>
+                <td>@user.Fullname</td>
+                <td>
+                    <a asp-action="Details" asp-route-id="@user.Id">Chi tiết</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

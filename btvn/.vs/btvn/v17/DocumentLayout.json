@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "D:\\c#\\UngDungNet\\btvn\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F1A414B2-10D9-4880-9CC5-D2D79BDBBAAF}|web1\\web1.csproj|d:\\c#\\ungdungnet\\btvn\\web1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F1A414B2-10D9-4880-9CC5-D2D79BDBBAAF}|web1\\web1.csproj|solutionrelative:web1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F1A414B2-10D9-4880-9CC5-D2D79BDBBAAF}|web1\\web1.csproj|d:\\c#\\ungdungnet\\btvn\\web1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1A414B2-10D9-4880-9CC5-D2D79BDBBAAF}|web1\\web1.csproj|solutionrelative:web1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F1A414B2-10D9-4880-9CC5-D2D79BDBBAAF}|web1\\web1.csproj|d:\\c#\\ungdungnet\\btvn\\web1\\views\\home\\timngay.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{F1A414B2-10D9-4880-9CC5-D2D79BDBBAAF}|web1\\web1.csproj|solutionrelative:web1\\views\\home\\timngay.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F1A414B2-10D9-4880-9CC5-D2D79BDBBAAF}|web1\\web1.csproj|d:\\c#\\ungdungnet\\btvn\\web1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F1A414B2-10D9-4880-9CC5-D2D79BDBBAAF}|web1\\web1.csproj|solutionrelative:web1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F1A414B2-10D9-4880-9CC5-D2D79BDBBAAF}|web1\\web1.csproj|d:\\c#\\ungdungnet\\btvn\\web1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1A414B2-10D9-4880-9CC5-D2D79BDBBAAF}|web1\\web1.csproj|solutionrelative:web1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F1A414B2-10D9-4880-9CC5-D2D79BDBBAAF}|web1\\web1.csproj|d:\\c#\\ungdungnet\\btvn\\web1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -38,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
@@ -84,19 +84,20 @@
               "RelativeDocumentMoniker": "web1\\Views\\Home\\TimNgay.cshtml",
               "ToolTip": "D:\\c#\\UngDungNet\\btvn\\web1\\Views\\Home\\TimNgay.cshtml",
               "RelativeToolTip": "web1\\Views\\Home\\TimNgay.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-15T08:22:02.239Z"
+              "WhenOpened": "2024-10-15T08:22:02.239Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\c#\\UngDungNet\\btvn\\web1\\Program.cs",
               "RelativeDocumentMoniker": "web1\\Program.cs",
               "ToolTip": "D:\\c#\\UngDungNet\\btvn\\web1\\Program.cs",
               "RelativeToolTip": "web1\\Program.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAQwCQAAABDAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAABDAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-15T08:17:51.363Z",
               "EditorCaption": ""
@@ -115,15 +116,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "HomeController.cs",
               "DocumentMoniker": "D:\\c#\\UngDungNet\\btvn\\web1\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "web1\\Controllers\\HomeController.cs",
               "ToolTip": "D:\\c#\\UngDungNet\\btvn\\web1\\Controllers\\HomeController.cs",
               "RelativeToolTip": "web1\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAmwDQAAABFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-15T08:16:30.676Z"
+              "WhenOpened": "2024-10-15T08:16:30.676Z",
+              "EditorCaption": ""
             }
           ]
         }
