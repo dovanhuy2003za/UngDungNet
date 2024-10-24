@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35219.272
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication1", "WebApplication1\WebApplication1.csproj", "{FABB0A75-8596-49AA-BBFB-F916B4758831}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebApplication1", "WebApplication1\WebApplication1.csproj", "{FABB0A75-8596-49AA-BBFB-F916B4758831}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "datalayer", "datalayer", "{89A6B59B-CFFF-43AC-9DC7-D03ACAEF5FE4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "datalayer", "datalayer\datalayer.csproj", "{4AA7B85A-9851-4E3C-B4AF-D24F4C70B8D9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,9 +19,16 @@ Global
 		{FABB0A75-8596-49AA-BBFB-F916B4758831}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FABB0A75-8596-49AA-BBFB-F916B4758831}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FABB0A75-8596-49AA-BBFB-F916B4758831}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4AA7B85A-9851-4E3C-B4AF-D24F4C70B8D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4AA7B85A-9851-4E3C-B4AF-D24F4C70B8D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4AA7B85A-9851-4E3C-B4AF-D24F4C70B8D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4AA7B85A-9851-4E3C-B4AF-D24F4C70B8D9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{4AA7B85A-9851-4E3C-B4AF-D24F4C70B8D9} = {89A6B59B-CFFF-43AC-9DC7-D03ACAEF5FE4}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {52789417-0368-4CAD-946B-FC0B0551B100}

@@ -3,44 +3,52 @@
   "WorkspaceRootPath": "D:\\c#\\UngDungNet\\BTVN2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FABB0A75-8596-49AA-BBFB-F916B4758831}|WebApplication1\\WebApplication1.csproj|d:\\c#\\ungdungnet\\btvn2\\webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FABB0A75-8596-49AA-BBFB-F916B4758831}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FABB0A75-8596-49AA-BBFB-F916B4758831}|WebApplication1\\WebApplication1.csproj|d:\\c#\\ungdungnet\\btvn2\\webapplication1\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FABB0A75-8596-49AA-BBFB-F916B4758831}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FABB0A75-8596-49AA-BBFB-F916B4758831}|WebApplication1\\WebApplication1.csproj|d:\\c#\\ungdungnet\\btvn2\\webapplication1\\views\\home\\userlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FABB0A75-8596-49AA-BBFB-F916B4758831}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\home\\userlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FABB0A75-8596-49AA-BBFB-F916B4758831}|WebApplication1\\WebApplication1.csproj|d:\\c#\\ungdungnet\\btvn2\\webapplication1\\views\\home\\resetpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FABB0A75-8596-49AA-BBFB-F916B4758831}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\home\\resetpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{FABB0A75-8596-49AA-BBFB-F916B4758831}|WebApplication1\\WebApplication1.csproj|d:\\c#\\ungdungnet\\btvn2\\webapplication1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FABB0A75-8596-49AA-BBFB-F916B4758831}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FABB0A75-8596-49AA-BBFB-F916B4758831}|WebApplication1\\WebApplication1.csproj|d:\\c#\\ungdungnet\\btvn2\\webapplication1\\views\\home\\forgotpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{FABB0A75-8596-49AA-BBFB-F916B4758831}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\home\\forgotpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FABB0A75-8596-49AA-BBFB-F916B4758831}|WebApplication1\\WebApplication1.csproj|d:\\c#\\ungdungnet\\btvn2\\webapplication1\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FABB0A75-8596-49AA-BBFB-F916B4758831}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{FABB0A75-8596-49AA-BBFB-F916B4758831}|WebApplication1\\WebApplication1.csproj|d:\\c#\\ungdungnet\\btvn2\\webapplication1\\views\\home\\resetpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FABB0A75-8596-49AA-BBFB-F916B4758831}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\home\\resetpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FABB0A75-8596-49AA-BBFB-F916B4758831}|WebApplication1\\WebApplication1.csproj|d:\\c#\\ungdungnet\\btvn2\\webapplication1\\views\\home\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{FABB0A75-8596-49AA-BBFB-F916B4758831}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\home\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FABB0A75-8596-49AA-BBFB-F916B4758831}|WebApplication1\\WebApplication1.csproj|d:\\c#\\ungdungnet\\btvn2\\webapplication1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FABB0A75-8596-49AA-BBFB-F916B4758831}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FABB0A75-8596-49AA-BBFB-F916B4758831}|WebApplication1\\WebApplication1.csproj|d:\\c#\\ungdungnet\\btvn2\\webapplication1\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FABB0A75-8596-49AA-BBFB-F916B4758831}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FABB0A75-8596-49AA-BBFB-F916B4758831}|WebApplication1\\WebApplication1.csproj|d:\\c#\\ungdungnet\\btvn2\\webapplication1\\models\\viewmodels\\forgotpasswordviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FABB0A75-8596-49AA-BBFB-F916B4758831}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\viewmodels\\forgotpasswordviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FABB0A75-8596-49AA-BBFB-F916B4758831}|WebApplication1\\WebApplication1.csproj|d:\\c#\\ungdungnet\\btvn2\\webapplication1\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FABB0A75-8596-49AA-BBFB-F916B4758831}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FABB0A75-8596-49AA-BBFB-F916B4758831}|WebApplication1\\WebApplication1.csproj|d:\\c#\\ungdungnet\\btvn2\\webapplication1\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FABB0A75-8596-49AA-BBFB-F916B4758831}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FABB0A75-8596-49AA-BBFB-F916B4758831}|WebApplication1\\WebApplication1.csproj|d:\\c#\\ungdungnet\\btvn2\\webapplication1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FABB0A75-8596-49AA-BBFB-F916B4758831}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FABB0A75-8596-49AA-BBFB-F916B4758831}|WebApplication1\\WebApplication1.csproj|d:\\c#\\ungdungnet\\btvn2\\webapplication1\\views\\home\\userlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FABB0A75-8596-49AA-BBFB-F916B4758831}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\home\\userlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FABB0A75-8596-49AA-BBFB-F916B4758831}|WebApplication1\\WebApplication1.csproj|d:\\c#\\ungdungnet\\btvn2\\webapplication1\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FABB0A75-8596-49AA-BBFB-F916B4758831}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FABB0A75-8596-49AA-BBFB-F916B4758831}|WebApplication1\\WebApplication1.csproj|d:\\c#\\ungdungnet\\btvn2\\webapplication1\\models\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FABB0A75-8596-49AA-BBFB-F916B4758831}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FABB0A75-8596-49AA-BBFB-F916B4758831}|WebApplication1\\WebApplication1.csproj|d:\\c#\\ungdungnet\\btvn2\\webapplication1\\models\\viewmodels\\forgotpasswordviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FABB0A75-8596-49AA-BBFB-F916B4758831}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\viewmodels\\forgotpasswordviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FABB0A75-8596-49AA-BBFB-F916B4758831}|WebApplication1\\WebApplication1.csproj|d:\\c#\\ungdungnet\\btvn2\\webapplication1\\models\\viewmodels\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -51,12 +59,12 @@
       "RelativeMoniker": "D:0:0:{FABB0A75-8596-49AA-BBFB-F916B4758831}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\viewmodels\\resetpasswordviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FABB0A75-8596-49AA-BBFB-F916B4758831}|WebApplication1\\WebApplication1.csproj|d:\\c#\\ungdungnet\\btvn2\\webapplication1\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FABB0A75-8596-49AA-BBFB-F916B4758831}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FABB0A75-8596-49AA-BBFB-F916B4758831}|WebApplication1\\WebApplication1.csproj|d:\\c#\\ungdungnet\\btvn2\\webapplication1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FABB0A75-8596-49AA-BBFB-F916B4758831}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FABB0A75-8596-49AA-BBFB-F916B4758831}|WebApplication1\\WebApplication1.csproj|d:\\c#\\ungdungnet\\btvn2\\webapplication1\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FABB0A75-8596-49AA-BBFB-F916B4758831}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FABB0A75-8596-49AA-BBFB-F916B4758831}|WebApplication1\\WebApplication1.csproj|d:\\c#\\ungdungnet\\btvn2\\webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FABB0A75-8596-49AA-BBFB-F916B4758831}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -66,69 +74,66 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "D:\\c#\\UngDungNet\\BTVN2\\WebApplication1\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "D:\\c#\\UngDungNet\\BTVN2\\WebApplication1\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-17T09:52:50.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\c#\\UngDungNet\\BTVN2\\WebApplication1\\Views\\Home\\Login.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Home\\Login.cshtml",
+              "ToolTip": "D:\\c#\\UngDungNet\\BTVN2\\WebApplication1\\Views\\Home\\Login.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Home\\Login.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-17T09:21:54.61Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\c#\\UngDungNet\\BTVN2\\WebApplication1\\Program.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\Program.cs",
-              "ToolTip": "D:\\c#\\UngDungNet\\BTVN2\\WebApplication1\\Program.cs*",
-              "RelativeToolTip": "WebApplication1\\Program.cs*",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBIAAAAhAAAAAAAAAA==",
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\c#\\UngDungNet\\BTVN2\\WebApplication1\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\c#\\UngDungNet\\BTVN2\\WebApplication1\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAgwCIAAABJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-17T09:26:40.8Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "D:\\c#\\UngDungNet\\BTVN2\\WebApplication1\\Views\\Home\\Details.cshtml",
-              "RelativeDocumentMoniker": "WebApplication1\\Views\\Home\\Details.cshtml",
-              "ToolTip": "D:\\c#\\UngDungNet\\BTVN2\\WebApplication1\\Views\\Home\\Details.cshtml*",
-              "RelativeToolTip": "WebApplication1\\Views\\Home\\Details.cshtml*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-17T09:26:04.785Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "UserList.cshtml",
-              "DocumentMoniker": "D:\\c#\\UngDungNet\\BTVN2\\WebApplication1\\Views\\Home\\UserList.cshtml",
-              "RelativeDocumentMoniker": "WebApplication1\\Views\\Home\\UserList.cshtml",
-              "ToolTip": "D:\\c#\\UngDungNet\\BTVN2\\WebApplication1\\Views\\Home\\UserList.cshtml*",
-              "RelativeToolTip": "WebApplication1\\Views\\Home\\UserList.cshtml*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-17T09:24:41.612Z",
+              "WhenOpened": "2024-10-17T09:11:48.399Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "ResetPassword.cshtml",
-              "DocumentMoniker": "D:\\c#\\UngDungNet\\BTVN2\\WebApplication1\\Views\\Home\\ResetPassword.cshtml",
-              "RelativeDocumentMoniker": "WebApplication1\\Views\\Home\\ResetPassword.cshtml",
-              "ToolTip": "D:\\c#\\UngDungNet\\BTVN2\\WebApplication1\\Views\\Home\\ResetPassword.cshtml*",
-              "RelativeToolTip": "WebApplication1\\Views\\Home\\ResetPassword.cshtml*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAHAAAAAAAAAA==",
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "D:\\c#\\UngDungNet\\BTVN2\\WebApplication1\\Views\\Home\\Register.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Home\\Register.cshtml",
+              "ToolTip": "D:\\c#\\UngDungNet\\BTVN2\\WebApplication1\\Views\\Home\\Register.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Home\\Register.cshtml",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAEEAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-17T09:23:36.155Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-17T09:19:33.94Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "ForgotPassword.cshtml",
               "DocumentMoniker": "D:\\c#\\UngDungNet\\BTVN2\\WebApplication1\\Views\\Home\\ForgotPassword.cshtml",
               "RelativeDocumentMoniker": "WebApplication1\\Views\\Home\\ForgotPassword.cshtml",
-              "ToolTip": "D:\\c#\\UngDungNet\\BTVN2\\WebApplication1\\Views\\Home\\ForgotPassword.cshtml*",
-              "RelativeToolTip": "WebApplication1\\Views\\Home\\ForgotPassword.cshtml*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAHAAAAAAAAAA==",
+              "ToolTip": "D:\\c#\\UngDungNet\\BTVN2\\WebApplication1\\Views\\Home\\ForgotPassword.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Home\\ForgotPassword.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-10-17T09:22:48.556Z",
               "EditorCaption": ""
@@ -136,119 +141,134 @@
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "Login.cshtml",
-              "DocumentMoniker": "D:\\c#\\UngDungNet\\BTVN2\\WebApplication1\\Views\\Home\\Login.cshtml",
-              "RelativeDocumentMoniker": "WebApplication1\\Views\\Home\\Login.cshtml",
-              "ToolTip": "D:\\c#\\UngDungNet\\BTVN2\\WebApplication1\\Views\\Home\\Login.cshtml*",
-              "RelativeToolTip": "WebApplication1\\Views\\Home\\Login.cshtml*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAoAAAAAAAAAA==",
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\c#\\UngDungNet\\BTVN2\\WebApplication1\\Views\\Home\\Details.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Home\\Details.cshtml",
+              "ToolTip": "D:\\c#\\UngDungNet\\BTVN2\\WebApplication1\\Views\\Home\\Details.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Home\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-17T09:21:54.61Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-17T09:26:04.785Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Register.cshtml",
-              "DocumentMoniker": "D:\\c#\\UngDungNet\\BTVN2\\WebApplication1\\Views\\Home\\Register.cshtml",
-              "RelativeDocumentMoniker": "WebApplication1\\Views\\Home\\Register.cshtml",
-              "ToolTip": "D:\\c#\\UngDungNet\\BTVN2\\WebApplication1\\Views\\Home\\Register.cshtml*",
-              "RelativeToolTip": "WebApplication1\\Views\\Home\\Register.cshtml*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAA6AAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "ResetPassword.cshtml",
+              "DocumentMoniker": "D:\\c#\\UngDungNet\\BTVN2\\WebApplication1\\Views\\Home\\ResetPassword.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Home\\ResetPassword.cshtml",
+              "ToolTip": "D:\\c#\\UngDungNet\\BTVN2\\WebApplication1\\Views\\Home\\ResetPassword.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Home\\ResetPassword.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-17T09:19:33.94Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-17T09:23:36.155Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "D:\\c#\\UngDungNet\\BTVN2\\WebApplication1\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\HomeController.cs",
-              "ToolTip": "D:\\c#\\UngDungNet\\BTVN2\\WebApplication1\\Controllers\\HomeController.cs*",
-              "RelativeToolTip": "WebApplication1\\Controllers\\HomeController.cs*",
-              "ViewState": "AgIAAIEAAAAAAAAAAAAuwFIAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-17T09:11:48.399Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "ResetPasswordViewModel.cs",
-              "DocumentMoniker": "D:\\c#\\UngDungNet\\BTVN2\\WebApplication1\\Models\\ViewModels\\ResetPasswordViewModel.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\Models\\ViewModels\\ResetPasswordViewModel.cs",
-              "ToolTip": "D:\\c#\\UngDungNet\\BTVN2\\WebApplication1\\Models\\ViewModels\\ResetPasswordViewModel.cs*",
-              "RelativeToolTip": "WebApplication1\\Models\\ViewModels\\ResetPasswordViewModel.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-17T09:02:39.344Z",
-              "EditorCaption": ""
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\c#\\UngDungNet\\BTVN2\\WebApplication1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\c#\\UngDungNet\\BTVN2\\WebApplication1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAABkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-17T09:48:03.21Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "ForgotPasswordViewModel.cs",
-              "DocumentMoniker": "D:\\c#\\UngDungNet\\BTVN2\\WebApplication1\\Models\\ViewModels\\ForgotPasswordViewModel.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\Models\\ViewModels\\ForgotPasswordViewModel.cs",
-              "ToolTip": "D:\\c#\\UngDungNet\\BTVN2\\WebApplication1\\Models\\ViewModels\\ForgotPasswordViewModel.cs*",
-              "RelativeToolTip": "WebApplication1\\Models\\ViewModels\\ForgotPasswordViewModel.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-17T09:00:40.202Z",
-              "EditorCaption": ""
+              "Title": "UserList.cshtml",
+              "DocumentMoniker": "D:\\c#\\UngDungNet\\BTVN2\\WebApplication1\\Views\\Home\\UserList.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Home\\UserList.cshtml",
+              "ToolTip": "D:\\c#\\UngDungNet\\BTVN2\\WebApplication1\\Views\\Home\\UserList.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Home\\UserList.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-17T09:24:41.612Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "LoginViewModel.cs",
-              "DocumentMoniker": "D:\\c#\\UngDungNet\\BTVN2\\WebApplication1\\Models\\ViewModels\\LoginViewModel.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\Models\\ViewModels\\LoginViewModel.cs",
-              "ToolTip": "D:\\c#\\UngDungNet\\BTVN2\\WebApplication1\\Models\\ViewModels\\LoginViewModel.cs*",
-              "RelativeToolTip": "WebApplication1\\Models\\ViewModels\\LoginViewModel.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-17T08:59:52.015Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
               "Title": "User.cs",
               "DocumentMoniker": "D:\\c#\\UngDungNet\\BTVN2\\WebApplication1\\Models\\User.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Models\\User.cs",
-              "ToolTip": "D:\\c#\\UngDungNet\\BTVN2\\WebApplication1\\Models\\User.cs*",
-              "RelativeToolTip": "WebApplication1\\Models\\User.cs*",
-              "ViewState": "AgIAABEAAAAAAAAAAAAgwB4AAAAYAAAAAAAAAA==",
+              "ToolTip": "D:\\c#\\UngDungNet\\BTVN2\\WebApplication1\\Models\\User.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-17T08:52:04.42Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-17T08:52:04.42Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "D:\\c#\\UngDungNet\\BTVN2\\WebApplication1\\Models\\ViewModels\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\ViewModels\\LoginViewModel.cs",
+              "ToolTip": "D:\\c#\\UngDungNet\\BTVN2\\WebApplication1\\Models\\ViewModels\\LoginViewModel.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\ViewModels\\LoginViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T08:59:52.015Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "RegisterViewModel.cs",
               "DocumentMoniker": "D:\\c#\\UngDungNet\\BTVN2\\WebApplication1\\Models\\ViewModels\\RegisterViewModel.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Models\\ViewModels\\RegisterViewModel.cs",
-              "ToolTip": "D:\\c#\\UngDungNet\\BTVN2\\WebApplication1\\Models\\ViewModels\\RegisterViewModel.cs*",
-              "RelativeToolTip": "WebApplication1\\Models\\ViewModels\\RegisterViewModel.cs*",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAAwAYAAAASAAAAAAAAAA==",
+              "ToolTip": "D:\\c#\\UngDungNet\\BTVN2\\WebApplication1\\Models\\ViewModels\\RegisterViewModel.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\ViewModels\\RegisterViewModel.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAYwAYAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-17T08:58:38.342Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-17T08:58:38.342Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ForgotPasswordViewModel.cs",
+              "DocumentMoniker": "D:\\c#\\UngDungNet\\BTVN2\\WebApplication1\\Models\\ViewModels\\ForgotPasswordViewModel.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\ViewModels\\ForgotPasswordViewModel.cs",
+              "ToolTip": "D:\\c#\\UngDungNet\\BTVN2\\WebApplication1\\Models\\ViewModels\\ForgotPasswordViewModel.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\ViewModels\\ForgotPasswordViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T09:00:40.202Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 13,
-              "Title": "ErrorViewModel.cs",
-              "DocumentMoniker": "D:\\c#\\UngDungNet\\BTVN2\\WebApplication1\\Models\\ErrorViewModel.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\Models\\ErrorViewModel.cs",
-              "ToolTip": "D:\\c#\\UngDungNet\\BTVN2\\WebApplication1\\Models\\ErrorViewModel.cs",
-              "RelativeToolTip": "WebApplication1\\Models\\ErrorViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "ResetPasswordViewModel.cs",
+              "DocumentMoniker": "D:\\c#\\UngDungNet\\BTVN2\\WebApplication1\\Models\\ViewModels\\ResetPasswordViewModel.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\ViewModels\\ResetPasswordViewModel.cs",
+              "ToolTip": "D:\\c#\\UngDungNet\\BTVN2\\WebApplication1\\Models\\ViewModels\\ResetPasswordViewModel.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\ViewModels\\ResetPasswordViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-17T09:02:01.866Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-17T09:02:39.344Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\c#\\UngDungNet\\BTVN2\\WebApplication1\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\c#\\UngDungNet\\BTVN2\\WebApplication1\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-17T09:39:38.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\c#\\UngDungNet\\BTVN2\\WebApplication1\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Program.cs",
+              "ToolTip": "D:\\c#\\UngDungNet\\BTVN2\\WebApplication1\\Program.cs",
+              "RelativeToolTip": "WebApplication1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T09:26:40.8Z"
             }
           ]
         }

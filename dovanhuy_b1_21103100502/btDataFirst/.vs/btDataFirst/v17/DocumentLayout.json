@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\c#\\UngDungNet\\btDataFirst\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{30F4D93A-D09D-4689-86C7-D2B1D69152B4}|WebApplication1\\WebApplication1.csproj|d:\\c#\\ungdungnet\\btdatafirst\\webapplication1\\controllers\\groupscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30F4D93A-D09D-4689-86C7-D2B1D69152B4}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\groupscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30F4D93A-D09D-4689-86C7-D2B1D69152B4}|WebApplication1\\WebApplication1.csproj|d:\\c#\\ungdungnet\\btdatafirst\\webapplication1\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30F4D93A-D09D-4689-86C7-D2B1D69152B4}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30F4D93A-D09D-4689-86C7-D2B1D69152B4}|WebApplication1\\WebApplication1.csproj|d:\\c#\\ungdungnet\\btdatafirst\\webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30F4D93A-D09D-4689-86C7-D2B1D69152B4}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30F4D93A-D09D-4689-86C7-D2B1D69152B4}|WebApplication1\\WebApplication1.csproj|d:\\c#\\ungdungnet\\btdatafirst\\webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{30F4D93A-D09D-4689-86C7-D2B1D69152B4}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30F4D93A-D09D-4689-86C7-D2B1D69152B4}|WebApplication1\\WebApplication1.csproj|d:\\c#\\ungdungnet\\btdatafirst\\webapplication1\\models1\\btaspcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30F4D93A-D09D-4689-86C7-D2B1D69152B4}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models1\\btaspcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30F4D93A-D09D-4689-86C7-D2B1D69152B4}|WebApplication1\\WebApplication1.csproj|d:\\c#\\ungdungnet\\btdatafirst\\webapplication1\\models1\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30F4D93A-D09D-4689-86C7-D2B1D69152B4}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models1\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30F4D93A-D09D-4689-86C7-D2B1D69152B4}|WebApplication1\\WebApplication1.csproj|d:\\c#\\ungdungnet\\btdatafirst\\webapplication1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30F4D93A-D09D-4689-86C7-D2B1D69152B4}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GroupsController.cs",
+              "DocumentMoniker": "D:\\c#\\UngDungNet\\btDataFirst\\WebApplication1\\Controllers\\GroupsController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\GroupsController.cs",
+              "ToolTip": "D:\\c#\\UngDungNet\\btDataFirst\\WebApplication1\\Controllers\\GroupsController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\GroupsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T13:26:45.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "D:\\c#\\UngDungNet\\btDataFirst\\WebApplication1\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\UsersController.cs",
+              "ToolTip": "D:\\c#\\UngDungNet\\btDataFirst\\WebApplication1\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T13:25:09.812Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\c#\\UngDungNet\\btDataFirst\\WebApplication1\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Program.cs",
+              "ToolTip": "D:\\c#\\UngDungNet\\btDataFirst\\WebApplication1\\Program.cs",
+              "RelativeToolTip": "WebApplication1\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAzwA0AAACLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T13:19:50.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\c#\\UngDungNet\\btDataFirst\\WebApplication1\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApplication1\\appsettings.json",
+              "ToolTip": "D:\\c#\\UngDungNet\\btDataFirst\\WebApplication1\\appsettings.json",
+              "RelativeToolTip": "WebApplication1\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-24T13:15:23.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Group.cs",
+              "DocumentMoniker": "D:\\c#\\UngDungNet\\btDataFirst\\WebApplication1\\Models1\\Group.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models1\\Group.cs",
+              "ToolTip": "D:\\c#\\UngDungNet\\btDataFirst\\WebApplication1\\Models1\\Group.cs",
+              "RelativeToolTip": "WebApplication1\\Models1\\Group.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T13:10:14.011Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\c#\\UngDungNet\\btDataFirst\\WebApplication1\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\c#\\UngDungNet\\btDataFirst\\WebApplication1\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T13:09:57.889Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BtaspContext.cs",
+              "DocumentMoniker": "D:\\c#\\UngDungNet\\btDataFirst\\WebApplication1\\Models1\\BtaspContext.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models1\\BtaspContext.cs",
+              "ToolTip": "D:\\c#\\UngDungNet\\btDataFirst\\WebApplication1\\Models1\\BtaspContext.cs",
+              "RelativeToolTip": "WebApplication1\\Models1\\BtaspContext.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAA3wBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T12:46:29.298Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
