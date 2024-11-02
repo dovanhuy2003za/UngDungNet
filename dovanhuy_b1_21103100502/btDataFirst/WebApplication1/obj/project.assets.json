@@ -7720,11 +7720,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\c#\\UngDungNet\\btDataFirst\\WebApplication1\\WebApplication1.csproj",
+      "projectUniqueName": "D:\\c#\\UngDungNet\\dovanhuy_b1_21103100502\\btDataFirst\\WebApplication1\\WebApplication1.csproj",
       "projectName": "WebApplication1",
-      "projectPath": "D:\\c#\\UngDungNet\\btDataFirst\\WebApplication1\\WebApplication1.csproj",
+      "projectPath": "D:\\c#\\UngDungNet\\dovanhuy_b1_21103100502\\btDataFirst\\WebApplication1\\WebApplication1.csproj",
       "packagesPath": "C:\\Users\\Huy pc\\.nuget\\packages\\",
-      "outputPath": "D:\\c#\\UngDungNet\\btDataFirst\\WebApplication1\\obj\\",
+      "outputPath": "D:\\c#\\UngDungNet\\dovanhuy_b1_21103100502\\btDataFirst\\WebApplication1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Huy pc\\AppData\\Roaming\\NuGet\\NuGet.Config",

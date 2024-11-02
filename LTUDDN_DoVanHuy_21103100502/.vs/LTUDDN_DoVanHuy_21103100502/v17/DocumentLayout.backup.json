@@ -1,0 +1,294 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\c#\\UngDungNet\\LTUDDN_DoVanHuy_21103100502\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CE56C85D-DC58-41A1-AB56-0029533F0E4E}|LTUDDN_DoVanHuy_21103100502\\LTUDDN_DoVanHuy_21103100502.csproj|d:\\c#\\ungdungnet\\ltuddn_dovanhuy_21103100502\\ltuddn_dovanhuy_21103100502\\views\\diems\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CE56C85D-DC58-41A1-AB56-0029533F0E4E}|LTUDDN_DoVanHuy_21103100502\\LTUDDN_DoVanHuy_21103100502.csproj|solutionrelative:ltuddn_dovanhuy_21103100502\\views\\diems\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE56C85D-DC58-41A1-AB56-0029533F0E4E}|LTUDDN_DoVanHuy_21103100502\\LTUDDN_DoVanHuy_21103100502.csproj|d:\\c#\\ungdungnet\\ltuddn_dovanhuy_21103100502\\ltuddn_dovanhuy_21103100502\\views\\sinhviens\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CE56C85D-DC58-41A1-AB56-0029533F0E4E}|LTUDDN_DoVanHuy_21103100502\\LTUDDN_DoVanHuy_21103100502.csproj|solutionrelative:ltuddn_dovanhuy_21103100502\\views\\sinhviens\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE56C85D-DC58-41A1-AB56-0029533F0E4E}|LTUDDN_DoVanHuy_21103100502\\LTUDDN_DoVanHuy_21103100502.csproj|d:\\c#\\ungdungnet\\ltuddn_dovanhuy_21103100502\\ltuddn_dovanhuy_21103100502\\controllers\\sinhvienscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE56C85D-DC58-41A1-AB56-0029533F0E4E}|LTUDDN_DoVanHuy_21103100502\\LTUDDN_DoVanHuy_21103100502.csproj|solutionrelative:ltuddn_dovanhuy_21103100502\\controllers\\sinhvienscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE56C85D-DC58-41A1-AB56-0029533F0E4E}|LTUDDN_DoVanHuy_21103100502\\LTUDDN_DoVanHuy_21103100502.csproj|d:\\c#\\ungdungnet\\ltuddn_dovanhuy_21103100502\\ltuddn_dovanhuy_21103100502\\models\\db\\diem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE56C85D-DC58-41A1-AB56-0029533F0E4E}|LTUDDN_DoVanHuy_21103100502\\LTUDDN_DoVanHuy_21103100502.csproj|solutionrelative:ltuddn_dovanhuy_21103100502\\models\\db\\diem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE56C85D-DC58-41A1-AB56-0029533F0E4E}|LTUDDN_DoVanHuy_21103100502\\LTUDDN_DoVanHuy_21103100502.csproj|d:\\c#\\ungdungnet\\ltuddn_dovanhuy_21103100502\\ltuddn_dovanhuy_21103100502\\models\\db\\dcungdungnetltuddndovanhuy21103100502ltuddndovanhuy21103100502appdataqlsvmdfcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE56C85D-DC58-41A1-AB56-0029533F0E4E}|LTUDDN_DoVanHuy_21103100502\\LTUDDN_DoVanHuy_21103100502.csproj|solutionrelative:ltuddn_dovanhuy_21103100502\\models\\db\\dcungdungnetltuddndovanhuy21103100502ltuddndovanhuy21103100502appdataqlsvmdfcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE56C85D-DC58-41A1-AB56-0029533F0E4E}|LTUDDN_DoVanHuy_21103100502\\LTUDDN_DoVanHuy_21103100502.csproj|d:\\c#\\ungdungnet\\ltuddn_dovanhuy_21103100502\\ltuddn_dovanhuy_21103100502\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE56C85D-DC58-41A1-AB56-0029533F0E4E}|LTUDDN_DoVanHuy_21103100502\\LTUDDN_DoVanHuy_21103100502.csproj|solutionrelative:ltuddn_dovanhuy_21103100502\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE56C85D-DC58-41A1-AB56-0029533F0E4E}|LTUDDN_DoVanHuy_21103100502\\LTUDDN_DoVanHuy_21103100502.csproj|d:\\c#\\ungdungnet\\ltuddn_dovanhuy_21103100502\\ltuddn_dovanhuy_21103100502\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CE56C85D-DC58-41A1-AB56-0029533F0E4E}|LTUDDN_DoVanHuy_21103100502\\LTUDDN_DoVanHuy_21103100502.csproj|solutionrelative:ltuddn_dovanhuy_21103100502\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE56C85D-DC58-41A1-AB56-0029533F0E4E}|LTUDDN_DoVanHuy_21103100502\\LTUDDN_DoVanHuy_21103100502.csproj|d:\\c#\\ungdungnet\\ltuddn_dovanhuy_21103100502\\ltuddn_dovanhuy_21103100502\\models\\db\\sinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE56C85D-DC58-41A1-AB56-0029533F0E4E}|LTUDDN_DoVanHuy_21103100502\\LTUDDN_DoVanHuy_21103100502.csproj|solutionrelative:ltuddn_dovanhuy_21103100502\\models\\db\\sinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE56C85D-DC58-41A1-AB56-0029533F0E4E}|LTUDDN_DoVanHuy_21103100502\\LTUDDN_DoVanHuy_21103100502.csproj|d:\\c#\\ungdungnet\\ltuddn_dovanhuy_21103100502\\ltuddn_dovanhuy_21103100502\\views\\diems\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CE56C85D-DC58-41A1-AB56-0029533F0E4E}|LTUDDN_DoVanHuy_21103100502\\LTUDDN_DoVanHuy_21103100502.csproj|solutionrelative:ltuddn_dovanhuy_21103100502\\views\\diems\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE56C85D-DC58-41A1-AB56-0029533F0E4E}|LTUDDN_DoVanHuy_21103100502\\LTUDDN_DoVanHuy_21103100502.csproj|d:\\c#\\ungdungnet\\ltuddn_dovanhuy_21103100502\\ltuddn_dovanhuy_21103100502\\controllers\\diemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE56C85D-DC58-41A1-AB56-0029533F0E4E}|LTUDDN_DoVanHuy_21103100502\\LTUDDN_DoVanHuy_21103100502.csproj|solutionrelative:ltuddn_dovanhuy_21103100502\\controllers\\diemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE56C85D-DC58-41A1-AB56-0029533F0E4E}|LTUDDN_DoVanHuy_21103100502\\LTUDDN_DoVanHuy_21103100502.csproj|d:\\c#\\ungdungnet\\ltuddn_dovanhuy_21103100502\\ltuddn_dovanhuy_21103100502\\views\\diems\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CE56C85D-DC58-41A1-AB56-0029533F0E4E}|LTUDDN_DoVanHuy_21103100502\\LTUDDN_DoVanHuy_21103100502.csproj|solutionrelative:ltuddn_dovanhuy_21103100502\\views\\diems\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE56C85D-DC58-41A1-AB56-0029533F0E4E}|LTUDDN_DoVanHuy_21103100502\\LTUDDN_DoVanHuy_21103100502.csproj|d:\\c#\\ungdungnet\\ltuddn_dovanhuy_21103100502\\ltuddn_dovanhuy_21103100502\\views\\diems\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CE56C85D-DC58-41A1-AB56-0029533F0E4E}|LTUDDN_DoVanHuy_21103100502\\LTUDDN_DoVanHuy_21103100502.csproj|solutionrelative:ltuddn_dovanhuy_21103100502\\views\\diems\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE56C85D-DC58-41A1-AB56-0029533F0E4E}|LTUDDN_DoVanHuy_21103100502\\LTUDDN_DoVanHuy_21103100502.csproj|d:\\c#\\ungdungnet\\ltuddn_dovanhuy_21103100502\\ltuddn_dovanhuy_21103100502\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE56C85D-DC58-41A1-AB56-0029533F0E4E}|LTUDDN_DoVanHuy_21103100502\\LTUDDN_DoVanHuy_21103100502.csproj|solutionrelative:ltuddn_dovanhuy_21103100502\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE56C85D-DC58-41A1-AB56-0029533F0E4E}|LTUDDN_DoVanHuy_21103100502\\LTUDDN_DoVanHuy_21103100502.csproj|d:\\c#\\ungdungnet\\ltuddn_dovanhuy_21103100502\\ltuddn_dovanhuy_21103100502\\views\\sinhviens\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CE56C85D-DC58-41A1-AB56-0029533F0E4E}|LTUDDN_DoVanHuy_21103100502\\LTUDDN_DoVanHuy_21103100502.csproj|solutionrelative:ltuddn_dovanhuy_21103100502\\views\\sinhviens\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE56C85D-DC58-41A1-AB56-0029533F0E4E}|LTUDDN_DoVanHuy_21103100502\\LTUDDN_DoVanHuy_21103100502.csproj|d:\\c#\\ungdungnet\\ltuddn_dovanhuy_21103100502\\ltuddn_dovanhuy_21103100502\\views\\sinhviens\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CE56C85D-DC58-41A1-AB56-0029533F0E4E}|LTUDDN_DoVanHuy_21103100502\\LTUDDN_DoVanHuy_21103100502.csproj|solutionrelative:ltuddn_dovanhuy_21103100502\\views\\sinhviens\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE56C85D-DC58-41A1-AB56-0029533F0E4E}|LTUDDN_DoVanHuy_21103100502\\LTUDDN_DoVanHuy_21103100502.csproj|d:\\c#\\ungdungnet\\ltuddn_dovanhuy_21103100502\\ltuddn_dovanhuy_21103100502\\views\\sinhviens\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CE56C85D-DC58-41A1-AB56-0029533F0E4E}|LTUDDN_DoVanHuy_21103100502\\LTUDDN_DoVanHuy_21103100502.csproj|solutionrelative:ltuddn_dovanhuy_21103100502\\views\\sinhviens\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE56C85D-DC58-41A1-AB56-0029533F0E4E}|LTUDDN_DoVanHuy_21103100502\\LTUDDN_DoVanHuy_21103100502.csproj|d:\\c#\\ungdungnet\\ltuddn_dovanhuy_21103100502\\ltuddn_dovanhuy_21103100502\\views\\sinhviens\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CE56C85D-DC58-41A1-AB56-0029533F0E4E}|LTUDDN_DoVanHuy_21103100502\\LTUDDN_DoVanHuy_21103100502.csproj|solutionrelative:ltuddn_dovanhuy_21103100502\\views\\sinhviens\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\c#\\UngDungNet\\LTUDDN_DoVanHuy_21103100502\\LTUDDN_DoVanHuy_21103100502\\appsettings.json",
+              "RelativeDocumentMoniker": "LTUDDN_DoVanHuy_21103100502\\appsettings.json",
+              "ToolTip": "D:\\c#\\UngDungNet\\LTUDDN_DoVanHuy_21103100502\\LTUDDN_DoVanHuy_21103100502\\appsettings.json",
+              "RelativeToolTip": "LTUDDN_DoVanHuy_21103100502\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-31T05:58:16.259Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\c#\\UngDungNet\\LTUDDN_DoVanHuy_21103100502\\LTUDDN_DoVanHuy_21103100502\\Program.cs",
+              "RelativeDocumentMoniker": "LTUDDN_DoVanHuy_21103100502\\Program.cs",
+              "ToolTip": "D:\\c#\\UngDungNet\\LTUDDN_DoVanHuy_21103100502\\LTUDDN_DoVanHuy_21103100502\\Program.cs",
+              "RelativeToolTip": "LTUDDN_DoVanHuy_21103100502\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T06:00:13.896Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SinhViensController.cs",
+              "DocumentMoniker": "D:\\c#\\UngDungNet\\LTUDDN_DoVanHuy_21103100502\\LTUDDN_DoVanHuy_21103100502\\Controllers\\SinhViensController.cs",
+              "RelativeDocumentMoniker": "LTUDDN_DoVanHuy_21103100502\\Controllers\\SinhViensController.cs",
+              "ToolTip": "D:\\c#\\UngDungNet\\LTUDDN_DoVanHuy_21103100502\\LTUDDN_DoVanHuy_21103100502\\Controllers\\SinhViensController.cs",
+              "RelativeToolTip": "LTUDDN_DoVanHuy_21103100502\\Controllers\\SinhViensController.cs",
+              "ViewState": "AgIAAI8AAAAAAAAAAAAowJcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T06:02:48.278Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DCUngdungnetLtuddnDovanhuy21103100502LtuddnDovanhuy21103100502AppDataQlsvMdfContext.cs",
+              "DocumentMoniker": "D:\\c#\\UngDungNet\\LTUDDN_DoVanHuy_21103100502\\LTUDDN_DoVanHuy_21103100502\\Models\\DB\\DCUngdungnetLtuddnDovanhuy21103100502LtuddnDovanhuy21103100502AppDataQlsvMdfContext.cs",
+              "RelativeDocumentMoniker": "LTUDDN_DoVanHuy_21103100502\\Models\\DB\\DCUngdungnetLtuddnDovanhuy21103100502LtuddnDovanhuy21103100502AppDataQlsvMdfContext.cs",
+              "ToolTip": "D:\\c#\\UngDungNet\\LTUDDN_DoVanHuy_21103100502\\LTUDDN_DoVanHuy_21103100502\\Models\\DB\\DCUngdungnetLtuddnDovanhuy21103100502LtuddnDovanhuy21103100502AppDataQlsvMdfContext.cs",
+              "RelativeToolTip": "LTUDDN_DoVanHuy_21103100502\\Models\\DB\\DCUngdungnetLtuddnDovanhuy21103100502LtuddnDovanhuy21103100502AppDataQlsvMdfContext.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwEMAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T05:57:14.073Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\c#\\UngDungNet\\LTUDDN_DoVanHuy_21103100502\\LTUDDN_DoVanHuy_21103100502\\Views\\SinhViens\\Index.cshtml",
+              "RelativeDocumentMoniker": "LTUDDN_DoVanHuy_21103100502\\Views\\SinhViens\\Index.cshtml",
+              "ToolTip": "D:\\c#\\UngDungNet\\LTUDDN_DoVanHuy_21103100502\\LTUDDN_DoVanHuy_21103100502\\Views\\SinhViens\\Index.cshtml",
+              "RelativeToolTip": "LTUDDN_DoVanHuy_21103100502\\Views\\SinhViens\\Index.cshtml",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAACEAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-31T06:25:32.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\c#\\UngDungNet\\LTUDDN_DoVanHuy_21103100502\\LTUDDN_DoVanHuy_21103100502\\Views\\Diems\\Create.cshtml",
+              "RelativeDocumentMoniker": "LTUDDN_DoVanHuy_21103100502\\Views\\Diems\\Create.cshtml",
+              "ToolTip": "D:\\c#\\UngDungNet\\LTUDDN_DoVanHuy_21103100502\\LTUDDN_DoVanHuy_21103100502\\Views\\Diems\\Create.cshtml",
+              "RelativeToolTip": "LTUDDN_DoVanHuy_21103100502\\Views\\Diems\\Create.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-31T06:20:33.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SinhVien.cs",
+              "DocumentMoniker": "D:\\c#\\UngDungNet\\LTUDDN_DoVanHuy_21103100502\\LTUDDN_DoVanHuy_21103100502\\Models\\DB\\SinhVien.cs",
+              "RelativeDocumentMoniker": "LTUDDN_DoVanHuy_21103100502\\Models\\DB\\SinhVien.cs",
+              "ToolTip": "D:\\c#\\UngDungNet\\LTUDDN_DoVanHuy_21103100502\\LTUDDN_DoVanHuy_21103100502\\Models\\DB\\SinhVien.cs",
+              "RelativeToolTip": "LTUDDN_DoVanHuy_21103100502\\Models\\DB\\SinhVien.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAxwBAAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T06:08:36.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Diem.cs",
+              "DocumentMoniker": "D:\\c#\\UngDungNet\\LTUDDN_DoVanHuy_21103100502\\LTUDDN_DoVanHuy_21103100502\\Models\\DB\\Diem.cs",
+              "RelativeDocumentMoniker": "LTUDDN_DoVanHuy_21103100502\\Models\\DB\\Diem.cs",
+              "ToolTip": "D:\\c#\\UngDungNet\\LTUDDN_DoVanHuy_21103100502\\LTUDDN_DoVanHuy_21103100502\\Models\\DB\\Diem.cs",
+              "RelativeToolTip": "LTUDDN_DoVanHuy_21103100502\\Models\\DB\\Diem.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T06:39:26.203Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\c#\\UngDungNet\\LTUDDN_DoVanHuy_21103100502\\LTUDDN_DoVanHuy_21103100502\\Views\\Diems\\Index.cshtml",
+              "RelativeDocumentMoniker": "LTUDDN_DoVanHuy_21103100502\\Views\\Diems\\Index.cshtml",
+              "ToolTip": "D:\\c#\\UngDungNet\\LTUDDN_DoVanHuy_21103100502\\LTUDDN_DoVanHuy_21103100502\\Views\\Diems\\Index.cshtml",
+              "RelativeToolTip": "LTUDDN_DoVanHuy_21103100502\\Views\\Diems\\Index.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACkAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-31T06:36:06.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DiemsController.cs",
+              "DocumentMoniker": "D:\\c#\\UngDungNet\\LTUDDN_DoVanHuy_21103100502\\LTUDDN_DoVanHuy_21103100502\\Controllers\\DiemsController.cs",
+              "RelativeDocumentMoniker": "LTUDDN_DoVanHuy_21103100502\\Controllers\\DiemsController.cs",
+              "ToolTip": "D:\\c#\\UngDungNet\\LTUDDN_DoVanHuy_21103100502\\LTUDDN_DoVanHuy_21103100502\\Controllers\\DiemsController.cs",
+              "RelativeToolTip": "LTUDDN_DoVanHuy_21103100502\\Controllers\\DiemsController.cs",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAUwH0AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T06:03:26.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\c#\\UngDungNet\\LTUDDN_DoVanHuy_21103100502\\LTUDDN_DoVanHuy_21103100502\\Views\\Diems\\Edit.cshtml",
+              "RelativeDocumentMoniker": "LTUDDN_DoVanHuy_21103100502\\Views\\Diems\\Edit.cshtml",
+              "ToolTip": "D:\\c#\\UngDungNet\\LTUDDN_DoVanHuy_21103100502\\LTUDDN_DoVanHuy_21103100502\\Views\\Diems\\Edit.cshtml",
+              "RelativeToolTip": "LTUDDN_DoVanHuy_21103100502\\Views\\Diems\\Edit.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-31T07:47:20.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\c#\\UngDungNet\\LTUDDN_DoVanHuy_21103100502\\LTUDDN_DoVanHuy_21103100502\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "LTUDDN_DoVanHuy_21103100502\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\c#\\UngDungNet\\LTUDDN_DoVanHuy_21103100502\\LTUDDN_DoVanHuy_21103100502\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "LTUDDN_DoVanHuy_21103100502\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T06:25:38.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\c#\\UngDungNet\\LTUDDN_DoVanHuy_21103100502\\LTUDDN_DoVanHuy_21103100502\\Views\\Diems\\Details.cshtml",
+              "RelativeDocumentMoniker": "LTUDDN_DoVanHuy_21103100502\\Views\\Diems\\Details.cshtml",
+              "ToolTip": "D:\\c#\\UngDungNet\\LTUDDN_DoVanHuy_21103100502\\LTUDDN_DoVanHuy_21103100502\\Views\\Diems\\Details.cshtml",
+              "RelativeToolTip": "LTUDDN_DoVanHuy_21103100502\\Views\\Diems\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-31T06:47:19.72Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\c#\\UngDungNet\\LTUDDN_DoVanHuy_21103100502\\LTUDDN_DoVanHuy_21103100502\\Views\\SinhViens\\Edit.cshtml",
+              "RelativeDocumentMoniker": "LTUDDN_DoVanHuy_21103100502\\Views\\SinhViens\\Edit.cshtml",
+              "ToolTip": "D:\\c#\\UngDungNet\\LTUDDN_DoVanHuy_21103100502\\LTUDDN_DoVanHuy_21103100502\\Views\\SinhViens\\Edit.cshtml",
+              "RelativeToolTip": "LTUDDN_DoVanHuy_21103100502\\Views\\SinhViens\\Edit.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB0AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-31T06:25:19.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\c#\\UngDungNet\\LTUDDN_DoVanHuy_21103100502\\LTUDDN_DoVanHuy_21103100502\\Views\\SinhViens\\Details.cshtml",
+              "RelativeDocumentMoniker": "LTUDDN_DoVanHuy_21103100502\\Views\\SinhViens\\Details.cshtml",
+              "ToolTip": "D:\\c#\\UngDungNet\\LTUDDN_DoVanHuy_21103100502\\LTUDDN_DoVanHuy_21103100502\\Views\\SinhViens\\Details.cshtml",
+              "RelativeToolTip": "LTUDDN_DoVanHuy_21103100502\\Views\\SinhViens\\Details.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-31T06:25:16.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\c#\\UngDungNet\\LTUDDN_DoVanHuy_21103100502\\LTUDDN_DoVanHuy_21103100502\\Views\\SinhViens\\Delete.cshtml",
+              "RelativeDocumentMoniker": "LTUDDN_DoVanHuy_21103100502\\Views\\SinhViens\\Delete.cshtml",
+              "ToolTip": "D:\\c#\\UngDungNet\\LTUDDN_DoVanHuy_21103100502\\LTUDDN_DoVanHuy_21103100502\\Views\\SinhViens\\Delete.cshtml",
+              "RelativeToolTip": "LTUDDN_DoVanHuy_21103100502\\Views\\SinhViens\\Delete.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-31T06:25:12.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\c#\\UngDungNet\\LTUDDN_DoVanHuy_21103100502\\LTUDDN_DoVanHuy_21103100502\\Views\\SinhViens\\Create.cshtml",
+              "RelativeDocumentMoniker": "LTUDDN_DoVanHuy_21103100502\\Views\\SinhViens\\Create.cshtml",
+              "ToolTip": "D:\\c#\\UngDungNet\\LTUDDN_DoVanHuy_21103100502\\LTUDDN_DoVanHuy_21103100502\\Views\\SinhViens\\Create.cshtml",
+              "RelativeToolTip": "LTUDDN_DoVanHuy_21103100502\\Views\\SinhViens\\Create.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-31T06:19:58.876Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

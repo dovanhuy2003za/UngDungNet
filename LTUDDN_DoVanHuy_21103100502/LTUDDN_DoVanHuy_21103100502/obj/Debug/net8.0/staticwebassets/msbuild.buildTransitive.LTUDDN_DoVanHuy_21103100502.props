@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\LTUDDN_DoVanHuy_21103100502.props" />
+</Project>
